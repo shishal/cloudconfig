@@ -1,2 +1,4 @@
 
 test:value
+configuration:
+  projectName: Spring and Cloud
